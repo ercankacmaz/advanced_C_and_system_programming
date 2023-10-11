@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\ASUS\source\repos\strtok_fonksiyonu\Source.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ASUS\source\repos\strtok_fonksiyonu\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  strtok_fonksiyonu.vcxproj -> C:\Users\ASUS\source\repos\strtok_fonksiyonu\Debug\strtok_fonksiyonu.exe
